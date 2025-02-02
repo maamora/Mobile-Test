@@ -1,7 +1,8 @@
-# Mobile Coding Challenge
+# Mobile Coding Challenge 
+#### The best way to submit is by forking this repo and commiting so we can see the best practice
 
 ## Don't use AI 🚨
-If you want to risk using it, use it in a clever way that make your code clean and readable 
+If you want to risk using it, use it in a clever way that make your code clean and most importantly human readable code / if the whole code is by AI you are disqualified 
 
 ## Idea of the App 
 The task is to implement a small app that will list the most starred Github repos that were created in the last 30 days. 
