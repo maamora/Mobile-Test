@@ -1,10 +1,13 @@
 # Mobile Coding Challenge
 
+## Don't use AI 🚨
+If you want to risk using it, use it in a clever way that make your code clean and readable 
+
 ## Idea of the App 
 The task is to implement a small app that will list the most starred Github repos that were created in the last 30 days. 
 You'll be fetching the sorted JSON data directly from the Github API (Github API explained down below). 
 
-## Features  🚨
+## Features  
 * As a User I should be able to list the most starred Github repos that were created in the last 30 days. 
 * As a User I should see the results as a list. One repository per row. 
 * As a User I should be able to see for each repo/row the following details :
