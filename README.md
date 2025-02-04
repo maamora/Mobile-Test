@@ -1,4 +1,4 @@
-# Mobile Coding Challenge 
+# Maamora Mobile Coding Challenge 
 #### The best way to submit is by forking this repo and commiting so we can see the best practice
 
 ## Don't use AI 🚨
